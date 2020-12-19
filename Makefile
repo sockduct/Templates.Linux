@@ -8,6 +8,12 @@
 #
 # <Program Name> Makefile
 #
+# Helpful References:
+# * Managing Projects with GNU Make, 3rd Edition:
+#   https://learning.oreilly.com/library/view/managing-projects-with/0596006101/
+# * For a true cross-platform solution, consider CMake:
+#   https://cmake.org/
+#
 
 #
 # Variables:
