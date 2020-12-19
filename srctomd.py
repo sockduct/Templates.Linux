@@ -1,8 +1,8 @@
 #! /usr/bin/env python3
 #
 # Author:  James R. Small
-# Last Modified:  12-13-2020-02
-# Version:  1.21
+# Last Modified:  12-19-2020-01
+# Version:  1.22
 #
 # To do/bugs:
 # * The replace needs to be a little more particular and if the "character" is
@@ -13,8 +13,11 @@
 # * Add support to toggle wrapping on/off (default to on for now):
 #   <code class="language-*" style="white-space: pre-wrap;">
 #
-# Note:  Formatting according to this Champlain KB on Canvas:
-#        https://clt.champlain.edu/knowledgebase/code-snippets/
+# Notes:
+#  *  Formatting according to this Champlain KB on Canvas:
+#     https://clt.champlain.edu/knowledgebase/code-snippets/
+#  *  Originally named cpptomd.py - created to convert C++ source files to
+#     markdown, but gradually revised to be more generalized and thus renamed
 #
 
 import os

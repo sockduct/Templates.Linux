@@ -8,6 +8,12 @@
  *
  * <PROGRAM NAME>
  * - <FEATURES>
+ * 
+ * Helpful References:
+ * - Modern C (General C Resource):
+ *   https://modernc.gforge.inria.fr/
+ * - The Linux Programming Interface (Systems Programming):
+ *   https://learning.oreilly.com/library/view/the-linux-programming/9781593272203/
  */
 
 #include <errno.h>
